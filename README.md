@@ -23,4 +23,4 @@ A simple 2-player Tic Tac Toe game in Python played via the terminal. Great as a
 3. Run the script:
 
 ```bash
-python tic_tac_toe.py
+python3 tic_tac_toe.py
